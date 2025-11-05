@@ -181,3 +181,9 @@ saved_models/*
 !saved_models/.gitkeep
 notebooks/.ipynb_checkpoints/
 .DS_Store
+
+datasets/*
+!datasets/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+.ipynb_checkpoints/
